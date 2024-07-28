@@ -1,1 +1,1 @@
-# Logical-operator-assingment
+Javascript Logical-operator-assingment
